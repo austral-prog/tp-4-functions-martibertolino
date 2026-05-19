@@ -1,5 +1,3 @@
-# ---- Funciones provistas (NO modificar) ----
-
 def is_even(n):
     return n % 2 == 0
 
